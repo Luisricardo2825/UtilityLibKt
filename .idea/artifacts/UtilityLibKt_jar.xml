@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UtilityLibKt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UtilityLibKt_jar</output-path>
+    <root id="archive" name="UtilityLibKt.jar">
+      <element id="module-output" name="UtilityLibKt" />
+    </root>
+  </artifact>
+</component>

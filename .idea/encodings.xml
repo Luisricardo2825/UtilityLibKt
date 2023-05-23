@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONCliente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONClienteAtacado.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONCupons.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONItens.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONPagamentoAtacado.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONPagamentos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONPedidos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/json/JSONServicos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/utilitarios" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/utilitarios/DiversosKT.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/utilitarios/resources/termo.html" charset="UTF-8" />
+  </component>
+</project>
